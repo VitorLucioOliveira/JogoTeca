@@ -18,7 +18,7 @@ class Usuario:
 
 
 usuario1 = Usuario('vitor', 'tofu', 'vitor1234')
-usuario2 = Usuario('pedro', 'ph', 'pedro1234')
+usuario2 = Usuario('pedrrin', 'ph', 'pedro1234')
 usuario3 = Usuario('fael', 'chefe', 'fael1234')
 
 usuarios = {usuario1.nickname: usuario1,
