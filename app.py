@@ -17,7 +17,7 @@ class Usuario:
         self.senha = senha
 
 
-usuario1 = Usuario('vitor', 'tofu', 'vitor1234')
+usuario1 = Usuario('teste', 'teste', '1234')
 usuario2 = Usuario('pedrrin', 'ph', 'pedro1234')
 usuario3 = Usuario('fael', 'chefe', 'fael1234')
 
